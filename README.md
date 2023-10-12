@@ -3,7 +3,7 @@ IT Support
 <p>
 <br />
 
-![IT Support](https://github.com/nw4466tu/Colin-Profile/blob/main/GitHub%20Banner.jpg?raw=true)
+![IT Support](https://github.com/nw4466tu/nw4466tu/blob/main/GitHub%20Banner.jpg?raw=true)
 <br />
 <p>
 I'm Colin from Minnesota☃️, and welcome to my GitHub journey in the ever-evolving world of Information Technology. Join me as I explore the exciting realms of IT, share my learning experiences, and contribute to the thriving community of tech enthusiasts. Together, we'll break down the barriers and uncover the endless opportunities in the world of IT.
