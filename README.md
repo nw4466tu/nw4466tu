@@ -3,6 +3,9 @@ IT Support
 <p>
 <br />
 
+![IT Support](https://github.com/nw4466tu/Colin-Profile/blob/main/GitHub%20Banner.jpg?raw=true)
+<br />
+<p>
 I'm Colin from Minnesota☃️, and welcome to my GitHub journey in the ever-evolving world of Information Technology. Join me as I explore the exciting realms of IT, share my learning experiences, and contribute to the thriving community of tech enthusiasts. Together, we'll break down the barriers and uncover the endless opportunities in the world of IT.
 
 <h2>Skills and Experience</h2>
@@ -28,9 +31,6 @@ I'm Colin from Minnesota☃️, and welcome to my GitHub journey in the ever-evo
 [<img align="left" alt="ColinNelson | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nw4466tu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/colin-nelson-501783a4//)
-![IT Support](https://github.com/nw4466tu/Colin-Profile/blob/main/GitHub%20Banner.jpg?raw=true)
-<br />
-<p>
 
 <!---
 nw4466tu/nw4466tu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
