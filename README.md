@@ -14,6 +14,7 @@ I'm Colin from Minnesota☃️, and welcome to my GitHub journey in the ever-evo
 ▪️PowerShell
 ▪️Network Protocols (SSH,DHCP,DNS,HTTP/S)
 ▪️Firewalls(NSGs)
+▪️osticket
 
 <h2>👨‍💻 IT Support Projects:</h2>
 
