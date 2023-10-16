@@ -27,9 +27,6 @@ I'm Colin from Minnesota☃️, and welcome to my GitHub journey in the ever-evo
   - [
 
 <h2> Certifications<h2>
--Information Technologies Course
--To be completed by 11/2023
--Course Careers
   
 <h2> 🤳 Connect with me:</h2>
 
