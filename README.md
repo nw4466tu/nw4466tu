@@ -16,11 +16,14 @@ I'm Colin from Minnesota☃️, and welcome to my GitHub journey in the ever-evo
 ▪️Firewalls(NSGs)
 
 <h2>👨‍💻 IT Support Projects:</h2>
-- [VM Creation and Connection](https://github.com/nw4466tu/VM-Connection-Lab)
-- [Azure Network Protocols](https://github.com/nw4466tu/Azure-Network-Protocols)
-- [osticket prerequisites](https://github.com/nw4466tu/osticket-Prerequisites)
-- [Active Directory Configurations](https://github.com/nw4466tu/Active-Directory-Configurations)
-- [
+
+- <b>Microsoft Azure</b>
+  - [VM Creation and Connection](https://github.com/nw4466tu/VM-Connection-Lab)
+  - [Azure Network Protocols](https://github.com/nw4466tu/Azure-Network-Protocols)
+  - [Active Directory Configurations](https://github.com/nw4466tu/Active-Directory-Configurations)
+- <b>osticket (Help Desk Ticketing System)</b>
+  - [osticket prerequisites](https://github.com/nw4466tu/osticket-Prerequisites)
+  - [
 
 <h2> Certifications<h2>
   
