@@ -27,7 +27,7 @@ I'm Colin from Minnesota☃️, and welcome to my GitHub journey in the ever-evo
   - [
   - [
 - <b>SearXNG (Secure Search Engine)
-  - [Secure Search Engine Creation on a Linux Virtual Machine (Azure)](
+  - [Secure Search Engine Creation on a Linux Virtual Machine (Azure)](https://github.com/nw4466tu/Sear-XNG-Secure-Search-Engine-)
 
 <h2> Certifications<h2>
   
