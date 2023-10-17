@@ -26,6 +26,8 @@ I'm Colin from Minnesota☃️, and welcome to my GitHub journey in the ever-evo
   - [osticket prerequisites](https://github.com/nw4466tu/osticket-Prerequisites)
   - [
   - [
+- <b>SearXNG (Secure Search Engine)
+  - [Secure Search Engine Creation on a Linux Virtual Machine (Azure)](
 
 <h2> Certifications<h2>
   
