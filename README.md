@@ -23,7 +23,7 @@ I'm Colin from Minnesota☃️, and welcome to my GitHub journey in the ever-evo
   - [Azure Network Protocols](https://github.com/nw4466tu/Azure-Network-Protocols)
   - [Active Directory Configurations](https://github.com/nw4466tu/Active-Directory-Configurations)
 - <b>osticket (Help Desk Ticketing System)</b>
-  - [osticket prerequisites](https://github.com/nw4466tu/osticket-Prerequisites)
+  - [osticket Prerequisites](https://github.com/nw4466tu/osticket-Prerequisites)
   - [osticket Post-Installation Configurations](https://github.com/nw4466tu/osticket-Post-Installation-Configuration)
   - [
 - <b>SearXNG (Secure Search Engine)
