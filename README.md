@@ -26,6 +26,7 @@ I'm Colin from Minnesota☃️, and welcome to my GitHub journey in the ever-evo
   - [osTicket: Prerequisites and Installation](https://github.com/nw4466tu/osticket-Prerequisites)
   - [osTicket: Post-Installation Configurations](https://github.com/nw4466tu/osticket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](
+  - [DNS Lab](
 - <b>SearXNG (Secure Search Engine)
   - [Secure Search Engine Creation on a Linux Virtual Machine (Azure)](https://github.com/nw4466tu/Sear-XNG-Secure-Search-Engine-)
 
