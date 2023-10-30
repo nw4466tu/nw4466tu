@@ -21,12 +21,11 @@ I'm Colin from Minnesota☃️, and welcome to my GitHub journey in the ever-evo
 - <b>Microsoft Azure</b>
   - [VM Creation and Connection](https://github.com/nw4466tu/VM-Connection-Lab)
   - [Azure Network Protocols](https://github.com/nw4466tu/Azure-Network-Protocols)
-  - [Active Directory Configurations](https://github.com/nw4466tu/Active-Directory-Configurations)
+  - [Active Directory Configurations](
 - <b>osticket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/nw4466tu/osticket-Prerequisites)
-  - [osTicket: Post-Installation Configurations](https://github.com/nw4466tu/osticket-Post-Installation-Configuration)
+  - [osTicket: Prerequisites and Installation](
+  - [osTicket: Post-Installation Configurations](
   - [osTicket: Ticket Lifecycle Examples](
-  - [DNS Lab](
 - <b>SearXNG (Secure Search Engine)
   - [Secure Search Engine Creation on a Linux Virtual Machine (Azure)](https://github.com/nw4466tu/Sear-XNG-Secure-Search-Engine-)
 
