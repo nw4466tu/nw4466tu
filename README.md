@@ -25,7 +25,7 @@ I'm Colin from Minnesota☃️, and welcome to my GitHub journey in the ever-evo
 - <b>osticket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/nw4466tu/osticket-Prerequisites)
   - [osTicket: Post-Installation Configurations](https://github.com/nw4466tu/osticket-Post-Installation-Configuration)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/nw4466tu/osticket-Ticket-Lifecycle-Examples)
+  - [osTicket: Ticket Lifecycle Examples](
 - <b>SearXNG (Secure Search Engine)
   - [Secure Search Engine Creation on a Linux Virtual Machine (Azure)](https://github.com/nw4466tu/Sear-XNG-Secure-Search-Engine-)
 
