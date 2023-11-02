@@ -24,7 +24,7 @@ I'm Colin from Minnesota☃️, and welcome to my GitHub journey in the ever-evo
   - [Active Directory Configurations](
 - <b>osticket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](
-  - [osTicket: Post-Installation Configurations](
+  - [osTicket: Post-Installation Configurations](https://github.com/nw4466tu/osticket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/nw4466tu/osticket-Ticket-Lifecycle-Examples)
 
 <h2> Certifications<h2>
