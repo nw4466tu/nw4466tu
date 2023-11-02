@@ -25,7 +25,7 @@ I'm Colin from Minnesota☃️, and welcome to my GitHub journey in the ever-evo
 - <b>osticket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](
   - [osTicket: Post-Installation Configurations](
-  - [osTicket: Ticket Lifecycle Examples](
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/nw4466tu/osticket-Ticket-Lifecycle-Examples)
 
 <h2> Certifications<h2>
   
